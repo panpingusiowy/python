@@ -4,12 +4,9 @@ b = list(a)
 
 resultct = False
 def cows(number):
-    templ = []
     bull = 0
     cow = 0
     temp = list(number)
-    ct1 = len(temp)
-    ct2 = len(b)
     #print("User:" + str(temp))
     #print("Temp:" + str(b))
     print("--------------------------")
